@@ -1,4 +1,4 @@
-.DS_Store
+**/.DS_Store
 javascriptFormatting.xml
 ##########
 # oknesset
@@ -30,7 +30,6 @@ native/iOS/OKnesset/InfoPlist.h
 native/iOS/OKnesset/.svn
 
 # osx noise
-native/iOS/OKnesset/.DS_Store
 native/iOS/OKnesset/profile
 
 # oknesset
