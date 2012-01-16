@@ -14,7 +14,6 @@ src/web/www/javascripts/private.js
 # Eclipse stuff
 ###############
 .settings
-.externalToolBuilds
 
 # Android
 ##########
