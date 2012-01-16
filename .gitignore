@@ -1,4 +1,5 @@
 **/.DS_Store
+
 javascriptFormatting.xml
 ##########
 # oknesset
@@ -8,6 +9,12 @@ target/*
 temp/*
 target_prod/*
 src/web/www/javascripts/private.js
+
+#
+# Eclipse stuff
+###############
+.settings
+.externalToolBuilds
 
 # Android
 ##########
